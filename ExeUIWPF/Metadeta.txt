@@ -1,0 +1,3 @@
+﻿Features to add:
+1) Clipboard.
+2) Process Documentationn Tab.
